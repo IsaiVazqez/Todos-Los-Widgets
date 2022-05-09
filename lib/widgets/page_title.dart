@@ -10,13 +10,13 @@ class PageTitle extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
-            Text('Classify transaction',
+            Text('App de Widgets',
                 style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
                     color: Colors.white)),
             SizedBox(height: 10),
-            Text('Classify this transaction into a particular category',
+            Text('Use any widget what you want to use',
                 style: TextStyle(fontSize: 16, color: Colors.white)),
           ],
         ),
