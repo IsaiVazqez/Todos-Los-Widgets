@@ -1,0 +1,9 @@
+export 'package:bocetos/widgets/background.dart';
+export 'package:bocetos/widgets/card_table.dart';
+export 'package:bocetos/widgets/custom_bottom_navigation.dart';
+export 'package:bocetos/widgets/page_title.dart';
+export 'package:bocetos/widgets/card_table.dart';
+export 'package:bocetos/widgets/cards.dart';
+export 'package:bocetos/widgets/custom_card_type_1.dart';
+export 'package:bocetos/widgets/custom_card_type_2.dart';
+export 'package:bocetos/widgets/custom_input_field.dart';

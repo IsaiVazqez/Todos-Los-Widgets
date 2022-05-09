@@ -1,0 +1,9 @@
+export 'package:bocetos/screens/basic_design.dart';
+export 'package:bocetos/screens/home_screen.dart';
+export 'package:bocetos/screens/listview1_screen.dart';
+export 'package:bocetos/screens/listview2_screen.dart';
+export 'package:bocetos/screens/alert_screen.dart';
+export 'package:bocetos/screens/inputs_screen.dart';
+export 'package:bocetos/screens/avatar_screen.dart';
+export 'package:bocetos/screens/listview_builder_screen.dart';
+export 'package:bocetos/screens/slider_screen.dart';
