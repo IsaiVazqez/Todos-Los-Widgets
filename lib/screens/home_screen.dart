@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 import '../widgets/widgets.dart';
 
-class HomeScreen extends StatelessWidget {
+class HomeScreen extends StatefulWidget {
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -13,7 +18,6 @@ class HomeScreen extends StatelessWidget {
           _HomeBody()
         ],
       ),
-      bottomNavigationBar: CustomBottomNavigation(),
     );
   }
 }

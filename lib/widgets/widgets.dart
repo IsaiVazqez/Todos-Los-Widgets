@@ -7,3 +7,5 @@ export 'package:bocetos/widgets/cards.dart';
 export 'package:bocetos/widgets/custom_card_type_1.dart';
 export 'package:bocetos/widgets/custom_card_type_2.dart';
 export 'package:bocetos/widgets/custom_input_field.dart';
+export 'package:bocetos/widgets/header.dart';
+export 'package:bocetos/widgets/boton.dart';
